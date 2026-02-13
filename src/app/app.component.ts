@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 import { Header } from './header/header';
 import { ServerStatusComponent } from './server-status/server-status.component';
 import { TrafficComponent } from './traffic/traffic.component';                                                             
-import { TicketsComponent } from './tickets/tickets.component';
+import { TicketsComponent } from './dashboard/tickets/tickets.component';
 import { DashboardItemComponent } from './dashboard/dashboard-item/dashboard-item.component';
 
 @Component({
